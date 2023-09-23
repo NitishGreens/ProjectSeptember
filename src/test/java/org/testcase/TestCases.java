@@ -24,4 +24,9 @@ public class TestCases {
 		System.out.println("test3");
 	}
 
+	@Test
+	private void login() {
+		System.out.println("login");
+	}
+
 }
