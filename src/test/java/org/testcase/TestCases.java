@@ -19,4 +19,9 @@ public class TestCases {
 		System.out.println("test3");
 	}
 
+	@Test
+	private void tc4() {
+		System.out.println("test3");
+	}
+
 }
