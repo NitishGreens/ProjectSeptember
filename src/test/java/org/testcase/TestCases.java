@@ -20,6 +20,11 @@ public class TestCases {
 	}
 
 	@Test
+	private void tc4() {
+		System.out.println("test3");
+	}
+
+	@Test
 	private void login() {
 		System.out.println("login");
 	}
